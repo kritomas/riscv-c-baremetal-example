@@ -2,3 +2,4 @@
 *.bin
 *.dtb
 *.dts
+*.elf
